@@ -1,4 +1,5 @@
 ---
 layout: page
-title: Contatti
 ---
+<p></p>
+<h1 style="text-align: center;">Contatti</h1>
