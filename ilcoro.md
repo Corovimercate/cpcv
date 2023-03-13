@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Il Coro
-subtitle: Cosa rappresenta il Coro
 ---
+
+<p></p>
+<h1 style="text-align: center;">Cos'è il Coro</h1>
 
 Che sapore ha una ciliegia? Bella domanda! Provate ad immaginare che qualcuno vi chieda di spiegare il sapore di una ciliegia a una persona che non ne ha mai assaggiata una.
 
