@@ -19,11 +19,11 @@ title: Coro Popolare Città di Vimercate
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Il Coro: "ilcoro"
-  Eventi: "eventi"
-  Repertorio: "repertorio"
-  Contatti: "contatti"
+# navbar-links:
+#   Il Coro: "ilcoro"
+#   Eventi: "eventi"
+#   Repertorio: "repertorio"
+#   Contatti: "contatti"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
