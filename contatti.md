@@ -4,13 +4,13 @@ layout: page
 <p></p>
 <h1 style="text-align: center;">Contatti</h1>
 
-Presidente – Gian Franco Redaelli - <presidente@corovimercate.it>
+Presidente – **Gian Franco Redaelli** - <presidente@corovimercate.it>
 
-Vice Presidente – Alessandro Italo Belloni - <vicepresidente@corovimercate.it>
+Vice Presidente – **Alessandro Italo Belloni** - <vicepresidente@corovimercate.it>
 
-Segretario - Marco Colombo - <segretario@corovimercate.it>
+Segretario - **Marco Colombo** - <segretario@corovimercate.it>
 
-Direttore - Ferruccio Villa - <maestro@corovimercate.it>
+Direttore - **Ferruccio Villa** - <maestro@corovimercate.it>
 
 <hr style="border:2px white">
 
