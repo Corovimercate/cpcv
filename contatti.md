@@ -12,11 +12,11 @@ Segretario - **Marco Colombo** - <segretario@corovimercate.it>
 
 Direttore - **Ferruccio Villa** - <maestro@corovimercate.it>
 
-<hr style="border:2px white">
+---
 
 Posta certificata - <corovimercate@pec.it> 
 
-<hr style="border:2px white">
+---
 
 Coro Popolare Città di Vimercate APS
 <p>📍 <a href="https://goo.gl/maps/mVr86QAhgBSmVZHg8">Via Passirano, 20
